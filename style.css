@@ -2,14 +2,29 @@ body {
   min-height: 3000px;
 }
 .jumbotron {
+  font-family: "Ungkepan Mamah Seli";
+  color: blueviolet;
   padding: 6rem 1rem;
-  background: white;
+  background: violet;
+}
+
+#about {
+  background-color: violet;
+  font-family: "My Store";
+  color: blueviolet;
 }
 
 #projects {
-  background-color: white;
+  background-color: violet;
+  font-family: "Ayam";
+  color: blueviolet;
 }
 
+#contact {
+  background-color: violet;
+  font-family: "Order Disini";
+  color: blueviolet;
+}
 section {
   padding-top: 5rem;
 }
